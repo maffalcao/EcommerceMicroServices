@@ -1,0 +1,7 @@
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.csproj.AssemblyReference.cache
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.AssemblyInfoInputs.cache
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.AssemblyInfo.cs
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.csproj.CoreCompileInputs.cache
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.MvcApplicationPartsAssemblyInfo.cs
+C:\microserviços\src\Shopping.Aggregator\obj\Debug\net5.0\Shopping.Aggregator.MvcApplicationPartsAssemblyInfo.cache
